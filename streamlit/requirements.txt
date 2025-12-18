@@ -1,3 +1,7 @@
-streamlit==1.39.0
-requests==2.32.3
-pandas==2.2.2
+pandas
+scikit-learn
+streamlit
+fastapi
+uvicorn
+pydantic
+requests
